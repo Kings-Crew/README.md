@@ -2,6 +2,7 @@
 Deltagare i organisationen:  Marcus Peterson, Jimmy Kroneld, Jonatan Ghirmay, Bam Mozafar
 
 Kings Crew är namnet på den grupp som jobbade & studerade tillsammans under utbildningen: Mjukvaruutvecklare Inbyggda system & IoT 22
+
 Alla gruppuppgifter vi fick under utbildningen gjorde denna grupp alltid tillsammans
 
 -----------------------------
